@@ -1,0 +1,6 @@
+devel_space: /home/yash/proj2/devel
+install: false
+install_space: /home/yash/proj2/install
+profile: default
+source_space: /home/yash/proj2/src
+workspace: /home/yash/proj2

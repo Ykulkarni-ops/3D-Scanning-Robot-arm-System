@@ -1,0 +1,1 @@
+/home/yash/proj2/devel/.private/lbr_iiwa7_r800/lib/pkgconfig/lbr_iiwa7_r800.pc

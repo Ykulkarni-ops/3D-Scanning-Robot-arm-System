@@ -1,0 +1,8 @@
+prefix=/home/yash/proj2/install
+
+Name: lbr_iiwa7_r800
+Description: Description of lbr_iiwa7_r800
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
