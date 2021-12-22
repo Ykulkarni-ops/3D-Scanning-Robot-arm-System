@@ -1,0 +1,8 @@
+prefix=/home/yash/proj2/devel/.private/iiwa_mover
+
+Name: iiwa_mover
+Description: Description of iiwa_mover
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

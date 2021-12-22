@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: lbr_iiwa7_r800-urdf-package
+    relative_path: urdf/kuka_iiwa.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/lbr_iiwa7_r800.srdf
+  CONFIG:
+    author_name: Nishad_Kulkarni_&_Yash_Kulkarni
+    author_email: nkulkar2@umd.edu
+    generated_timestamp: 1639295873

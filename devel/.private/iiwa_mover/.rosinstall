@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yash/proj2/devel/.private/iiwa_mover/setup.sh

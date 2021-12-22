@@ -1,0 +1,8 @@
+prefix=/home/yash/proj2/install
+
+Name: iiwa_mover
+Description: Description of iiwa_mover
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/yash/proj2/devel/.private/iiwa_mover/lib/pkgconfig/iiwa_mover.pc
